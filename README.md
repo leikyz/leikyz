@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bonjour%20!&fontSize=70)
-![Snake animation](https://raw.githubusercontent.com/leikyz/leikyz/main/dist/github-contribution-grid-snake-dark.svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Leikyz&fontSize=70&desc=Network%20%7C%20Online%20and%20gameplay%20programmer&descSize=20&descAlignY=65)
 <!--
 **leikyz/leikyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
