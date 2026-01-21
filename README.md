@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Network%20%7C%20Online%20et%20gameplay%20programmer&fontSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Network%20%7C%20Online%20et%20Gameplay%20programmer&fontSize=25&fontColor=ffffff&alignY=35)
 <!--
 **leikyz/leikyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
