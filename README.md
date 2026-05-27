@@ -1,1 +1,1 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20%7C%20Gameplay%20Programmer&textBg=false&fontSize=40&fontAlignY=35&desc=C%2B%2B%20%7C%20C%23%20%7C%20Java%20%7C%20Unity%20%7C%20Unreal%20Engine&descAlignY=60&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Game%20Network%20Programmer&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&section=header&reversal=false)
